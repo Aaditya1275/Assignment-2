@@ -10,16 +10,16 @@ h1 {
 }
 
 section {
-    border: 1px solid black;    
-    background-color: #FFDCD5;
+    border: 1px solid green;    
+    background-color: #7873F5;
     height: 250px;
     overflow: auto;
 }
 
 h2 {
-    float: left;
-    border:1px solid black;
-    color: black;
+    float: right;
+    border:1px solid green;
+    color: green;
     font-size: 125%;
     padding: 5px 20px 5px 20px;
     margin-top: 0;
@@ -32,15 +32,15 @@ ul {
 }
 
 #Chinese_Food{
-    background-color: #CA6A55 ;
+    background-color: #CE73F5 ;
 }
 
 #Italian_Food {
-    background-color: #FF9823 ;
+    background-color: #73E4F5 ;
 }
 
 #Indian_Food {
-    background-color: #EB4F14 ;
+    background-color: #73F5CF ;
 }
 
 
